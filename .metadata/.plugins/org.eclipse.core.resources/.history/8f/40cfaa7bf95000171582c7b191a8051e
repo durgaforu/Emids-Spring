@@ -1,0 +1,22 @@
+package com;
+
+import org.omg.CORBA.portable.ApplicationException;
+
+import com.bill.BillingImpl;
+import com.price.PriceMatrix;
+import com.price.PriceMatrixImpl;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+	
+	
+	
+		
+		
+		
+
+	}
+
+}

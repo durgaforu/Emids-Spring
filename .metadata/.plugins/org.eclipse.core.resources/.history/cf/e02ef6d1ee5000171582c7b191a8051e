@@ -1,0 +1,38 @@
+package com;
+
+public class Employee {
+
+	public Employee() {
+		System.out.println("-- Employee Object Created");
+	}
+
+	private int empId;
+	private String empNamne;
+	private double salary;
+
+	public int getEmpId() {
+		return empId;
+	}
+
+	public void setEmpId(int empId) {
+		System.out.println("---- empid called by SPring");
+		this.empId = empId;
+	}
+
+	public String getEmpNamne() {
+		return empNamne;
+	}
+
+	public void setEmpNamne(String empNamne) {
+		this.empNamne = empNamne;
+	}
+
+	public double getSalary() {
+		return salary;
+	}
+
+	public void setSalary(double salary) {
+		this.salary = salary;
+	}
+
+}

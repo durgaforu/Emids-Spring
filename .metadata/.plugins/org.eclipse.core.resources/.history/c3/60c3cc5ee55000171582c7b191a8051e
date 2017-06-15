@@ -1,0 +1,12 @@
+package com.price;
+
+// Dependency
+public class PriceMatrixImpl {
+
+	public double getItemPrice(String itemCode) {
+		// Code to connect to DB and fetch itemPrice
+
+		return 100.00;
+	}
+
+}

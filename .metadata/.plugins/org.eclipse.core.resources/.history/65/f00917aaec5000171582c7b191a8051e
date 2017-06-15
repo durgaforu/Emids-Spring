@@ -1,0 +1,37 @@
+package com;
+
+public class Employee {
+
+	public Employee() {
+		System.out.println("-- Employee Object Created");
+	}
+
+	private int empId=10;
+	private String empNamne="Praveen";
+	private double salary=8362;
+
+	public int getEmpId() {
+		return empId;
+	}
+
+	public void setEmpId(int empId) {
+		this.empId = empId;
+	}
+
+	public String getEmpNamne() {
+		return empNamne;
+	}
+
+	public void setEmpNamne(String empNamne) {
+		this.empNamne = empNamne;
+	}
+
+	public double getSalary() {
+		return salary;
+	}
+
+	public void setSalary(double salary) {
+		this.salary = salary;
+	}
+
+}

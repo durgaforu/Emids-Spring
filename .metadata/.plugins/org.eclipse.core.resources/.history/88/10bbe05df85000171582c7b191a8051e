@@ -1,0 +1,38 @@
+package com;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		System.out.println("--- main started");
+
+		ApplicationContext ac = new ClassPathXmlApplicationContext("spring.xml");
+
+		Employee emp = ac.getBean("emp", Employee.class);
+
+		emp.setEmpId(10);
+		emp.setEmpNamne("Praveen");
+		emp.setSalary(34834783);
+
+		Department dept = ac.getBean("dept", Department.class);
+		Department dept1 = ac.getBean("dept", Department.class);
+
+		dept.setDeptId(1000);
+		dept.setDeptName("HR");
+		
+		dept.setDeptId(1001);
+		dept.setDeptName("Accounts");
+
+		
+		
+		emp.disp();
+		
+		
+		
+
+	}
+
+}

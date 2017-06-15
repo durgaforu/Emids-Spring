@@ -1,0 +1,14 @@
+package com.bill;
+
+public class BillingImpl {
+	
+	public double getCartTotal(String[] cart) {
+		
+		
+		double total=0.0;
+		
+		
+		
+	}
+
+}
