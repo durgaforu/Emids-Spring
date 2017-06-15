@@ -3,4 +3,5 @@
 <aop-project name="Spring_Annotations"/>
 <aop-project name="Shop_Spring"/>
 <aop-project name="Spring_"/>
+<aop-project name="Spring-Test-Maven"/>
 </aop-reference-model>

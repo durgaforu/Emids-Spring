@@ -12,12 +12,30 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Wed, 14 Jun 2017 08:03:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Jun 2017 07:25:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Slack Is Using TypeScript, and You Should Too!</title>
+		<link>https://www.genuitec.com/slack-using-typescript/</link>
+		<pubDate>Wed, 14 Jun 2017 17:11:03 +0000</pubDate>
+		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[typescript]]></category>
+		<category><![CDATA[using typescript]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=525382</guid>
+		<description><![CDATA[<p>Building a desktop application with multiple threads is a challenge not everyone is up to. No problem for TypeScript, though! All the pieces must fit in perfectly to make sure an application doesn’t crash due to even a tiny mistake. For this reason, folks at Slack (and many others) have put their faith in it. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/slack-using-typescript/">Slack Is Using TypeScript, and You Should Too!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Creating Your First Angular 4 App Using Angular IDE</title>
 		<link>https://www.genuitec.com/creating-first-angular-4-app-using-angular-ide/</link>
 		<pubDate>Mon, 12 Jun 2017 17:47:47 +0000</pubDate>
@@ -251,29 +269,14 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-4-butterfly-not-cocoon/">Angular 4 &#8212; the Butterfly, Not the Cocoon.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>The Time Has Come to Learn TypeScript.</title>
-		<link>https://www.genuitec.com/time-come-learn-typescript/</link>
-		<pubDate>Thu, 20 Apr 2017 18:22:15 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=520037</guid>
-		<description><![CDATA[<p>TypeScript or JavaScript?  Now, that is the question!  If TypeScript, a typed superset of JavaScript, compiles down to JavaScript, the obvious query is why have it in the first place.  Another logical inquiry is whether it’s ideal for everyone, how and where it can be used.There are two good reasons why developers should bother learning [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/time-come-learn-typescript/">The Time Has Come to Learn TypeScript.</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 9149/9275 objects using disk
+Object Caching 9168/9290 objects using disk
 Page Caching using disk: enhanced (Requested URI is rejected)
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 7/47 queries in 1.377 seconds using disk
+Database Caching 42/45 queries in 0.733 seconds using disk
 
- Served from: www.genuitec.com @ 2017-06-14 03:55:28 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2017-06-15 02:59:38 by W3 Total Cache -->

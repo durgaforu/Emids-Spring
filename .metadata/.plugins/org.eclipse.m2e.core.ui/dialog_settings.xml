@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="g4"/>
 			<item value="g3"/>
 			<item value="test"/>
 			<item value="group"/>
@@ -9,6 +10,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Spring-Web"/>
 			<item value="Spring-Test"/>
 			<item value="Spring-Core-Maven"/>
 			<item value="SpringMaven"/>
